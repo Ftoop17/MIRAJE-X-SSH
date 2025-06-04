@@ -142,7 +142,7 @@ MIRAJE-X operates under **Custom License**:
 
 ## 💬 **Support & Contact**  
 Found a bug? Need help?  
-📧 Email: support@mirage-x.com  
+📧 Email: mirajestory@gmail.com 
 💬 Telegram: [@thetemirbolatov](https://t.me/thetemirbolatov)  
 
 **Star us on GitHub!** ⭐  
