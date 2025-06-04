@@ -1,7 +1,7 @@
 # **MIRAJE-X: Ultimate Security & Caching Library**  
 *(v3.0 | June 2024)*  
 
-![Mirage-X Logo](https://via.placeholder.com/150x50?text=MIRAJE-X)  
+
 **The Most Advanced Python Security & Caching Solution**  
 
 ---
@@ -158,6 +158,6 @@ print("MIRAJE-X: Security Evolved")  # Happy coding!
 - [Benchmarks](docs/BENCHMARKS.md)  
 - [Release Notes](CHANGELOG.md)  
 
-![Divider](https://via.placeholder.com/800x2/2d3748/ffffff?text=+)  
+
 
 **© 2025 The Temirbolatov | MIRAJE-X**
